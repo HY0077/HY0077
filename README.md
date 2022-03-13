@@ -1,21 +1,21 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Maddox!</h1>
-<h3 align="center">I'm a passionate Developer from Germany.</h3>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am HY007!</h1>
+<h3 align="center">I am </h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[DevSky](https://github.com/MelionCloud/)**
+- 🔭 I’m currently working on my Website**[Henry N](https://www.henryn.tech)**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Java Script**
 
-- 👨‍💻 Most of my projects are not available
+- 👨‍💻 Most of my projects are private
 
-- 📫 How to reach me **maddox@fastcord.de**
+- 📫 How to reach me **hy@henryn.tech**
 
-- ⚡ Fun fact **I play games.**
+- ⚡ Fun fact **I play many games.**
 
 ## 🚀 Projects, Languages and Tools:
 
@@ -36,11 +36,11 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Maddox3306/github-readme-stats"><img alt="Maddox Github Stats" src="https://github-readme-stats.vercel.app/api?username=Maddox3306&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Maddox3306/github-readme-stats"><img alt="Maddox Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maddox3306&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/HY0077/github-readme-stats"><img alt="HY0077s Github Stats" src="https://github-readme-stats.vercel.app/api?username=HY0077&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/HY0077/github-readme-stats"><img alt="HY0077s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HY0077&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 <br/>
 
-<a href="https://github.com/Maddox3306/github-readme-activity-graph"><img alt="Maddox Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Maddox3306&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/HY0077/github-readme-activity-graph"><img alt="HY0077s Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HY0077&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
