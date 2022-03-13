@@ -2,7 +2,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am HY007!</h1>
-<h3 align="center">I am </h3>
+<h3 align="center">I am learning to code.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -20,12 +20,9 @@
 ## 🚀 Projects, Languages and Tools:
 
 <p align="left">  
-    <a href="https://melion.cloud/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/922627634716868609/923332329173291008/melone__.png"/> </a> 
-    <a href="https://devsky.one/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/922627634716868609/923353552607412325/melone__.png"/> </a> 
+
     <a href="https://microsoft.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/windows-11.png"/> </a> 
-    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
