@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on my Website**[Henry N](https://www.henryn.tech)**
+- 🔭 I’m currently working on my Website**[Henry N](https://henrys.social)**
 
 - 🌱 I’m currently learning **Java Script**
 
